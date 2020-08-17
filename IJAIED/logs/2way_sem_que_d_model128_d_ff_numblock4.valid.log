@@ -1,0 +1,4 @@
+epoch,loss_per_sample, accuracy_label
+0,  0.01102, 59.420
+1,  0.00978, 65.432
+2,  0.00961, 65.913
