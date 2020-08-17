@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 ## Project structure
-* 'IJAIE/'
+* 'IJAIED/'
     * 'logs/' -- this folder will generate the training logs automatically if you set "-log" with a log name.
     * 'model_zoo/' -- this folder contains the source code for our proposed models.
     * 'saved_model/' -- this folder will save the best performance model checkpoint if you set "-save_model" with a model name.
